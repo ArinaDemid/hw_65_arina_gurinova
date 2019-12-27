@@ -1,0 +1,1 @@
+export const PAGES = ['home', 'about','contacts', 'divisions', 'test'];
